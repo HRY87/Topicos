@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1771559281 source:c:\users\herna\onedrive\documentos\codeblocks\guiaejercicios2023\1_matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1771559090 c:\users\herna\onedrive\documentos\codeblocks\guiaejercicios2023\1_matriz\matriz.h
+	<stdbool.h>
+
+1771558980 source:c:\users\herna\onedrive\documentos\codeblocks\guiaejercicios2023\1_matriz\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"matriz.h"
+

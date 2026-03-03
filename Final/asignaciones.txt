@@ -1,5 +1,0 @@
-Trabajo: 1 - Modelo: Soporte Tablet - Impresora: Prusa MK3 - Tiempo: 240 min
-Trabajo: 2 - Modelo: Organizador Cables - Impresora: Prusa MK3 - Tiempo: 180 min
-Trabajo: 4 - Modelo: Maceta Decorativa - Impresora: Prusa MK3 - Tiempo: 400 min
-Trabajo: 7 - Modelo: Soporte Tablet - Impresora: Prusa MK3 - Tiempo: 600 min
-Trabajo: 10 - Modelo: Organizador Cables - Impresora: Prusa MK3 - Tiempo: 540 min

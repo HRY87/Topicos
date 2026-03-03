@@ -1,0 +1,9 @@
+Trabajo: 1 - Modelo: Soporte Tablet - Impresora: Prusa MK3 - Tiempo: 240 min
+Trabajo: 2 - Modelo: Organizador Cables - Impresora: Ender 3 Pro - Tiempo: 180 min
+Trabajo: 3 - Modelo: Carcasa Electronica - Impresora: CR-10 V3 - Tiempo: 720 min
+Trabajo: 4 - Modelo: Maceta Decorativa - Impresora: Anycubic Mega - Tiempo: 400 min
+Trabajo: 5 - Modelo: Engranaje Mecanico - Impresora: Artillery X1 - Tiempo: 150 min
+Trabajo: 6 - Modelo: Pieza Industrial - Impresora: CR-10 V3 - Tiempo: 600 min
+Trabajo: 7 - Modelo: Soporte Tablet - Impresora: Ender 3 Pro - Tiempo: 600 min
+Trabajo: 9 - Modelo: Carcasa Electronica - Impresora: CR-10 V3 - Tiempo: 240 min
+Trabajo: 10 - Modelo: Organizador Cables - Impresora: Prusa MK3 - Tiempo: 540 min

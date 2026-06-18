@@ -1,0 +1,5 @@
+40111222|Juan Perez|A|8
+38999111|Maria Lopez|R|3
+41222333|Carlos Gomez|A|10
+37777444|Ana Martinez|F|6
+42555666|Lucia Fernandez|A|7

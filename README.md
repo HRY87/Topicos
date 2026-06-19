@@ -35,7 +35,8 @@ Esta rama está dedicada a los **exámenes parciales** y evaluaciones:
 
 1. **Para estudiar los temas**: Ve a la rama `Clases`
 2. **Para practicar ejercicios**: Ve a la rama `GuiaEjercicios`
-3. **Para prepararte para exámenes**: Ve a la rama `Parciales`
+3. **Para modelos de examnes**: Ve a la rama `ModelosDeParciales`
+4. **Para ver parciales resueltos**: Ve a la rama `ParcialesResuletos`
 
 ## 📝 Navegación
 

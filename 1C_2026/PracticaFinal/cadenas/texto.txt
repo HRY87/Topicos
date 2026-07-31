@@ -1,0 +1,9 @@
+Hola! Este es un texto de prueba para copiar en un archivo de texto. La idea es tener varias palabras, frases y simbolos para verificar que todo funcione de forma correcta.
+
+Cada linea contiene palabras comunes del idioma espanol, pero sin usar la letra prohibida ni caracteres con tilde. Ademas, aparecen numeros como 10, 25, 100 y 9999 para hacer la prueba un poco mas completa.
+
+Una computadora puede leer datos, procesarlos y guardar el resultado. Un programa recibe datos de entrada, realiza varias operaciones y luego muestra la salida. Si algo falla, el usuario puede revisar el codigo, buscar el error y volver a ejecutar el programa.
+
+El clima cambia cada dia. A veces hace calor, otras veces hace frio. El cielo puede estar limpio o cubierto por nubes. Si aparece lluvia, es buena idea llevar un paraguas.
+
+Un auto rojo paso rapido por la avenida. Detras iba una moto negra y luego un camion blanco. Todos respetaban la velocidad maxima y las reglas del camino.
